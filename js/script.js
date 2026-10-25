@@ -39,7 +39,7 @@ const translations = {
         copy: "Copy",
         copied: "Copied!",
         error: "Error",
-        footer: "Created by TTB3AR"
+        footer: "Created by ericeisaman"
     },
     jp: {
         title: "安全なパスワード生成ツール",
@@ -61,7 +61,7 @@ const translations = {
         copy: "コピー",
         copied: "コピー完了!",
         error: "エラー",
-        footer: "TTB3AR制作"
+        footer: "ericeisaman制作"
     }
 };
 
